@@ -1,5 +1,5 @@
 ### Hi there, I'm Minindu Abeywardena! 👋
-#### 🚀 Full-Stack Developer | Software Engineering Undergraduate | UI/UX Enthusiast
+#### 🚀 Full-Stack Developer | Software Engineering Undergraduate | Cloud Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MininduBimsara&color=blue)
 
@@ -48,6 +48,10 @@ const Minindu = {
 ### 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MininduBimsara&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MininduBimsara&layout=compact&theme=radical)
+
+### **📈 Additional GitHub Metrics**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MininduBimsara&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MininduBimsara&theme=tokyonight)
 
 ---
 ### 🏆 Achievements
