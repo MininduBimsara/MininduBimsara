@@ -34,13 +34,8 @@ const Minindu = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### Tools & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -78,7 +73,7 @@ A fuel quota management system designed for Sri Lanka, ensuring efficient fuel d
 - 📧 Email: [minindubim@gmail.com](mailto:minindubim@gmail.com)
 - 💼 LinkedIn: [Minindu Abeywardena](https://www.linkedin.com/in/minindu-abeywardena/)
 - 🌍 GitHub: [MininduBimsara](https://github.com/MininduBimsara)
-- 🔗 Portfolio: *Coming Soon*
+- 🔗 Portfolio: [*Minindu Bimsara*](https://seng-31313-2025-seven.vercel.app/)
 
 ---
 💡 *"Coding is like humor. If you have to explain it, it’s bad." - Cory House* 🚀
