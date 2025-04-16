@@ -9,13 +9,8 @@
 const Minindu = {
     location: "Sri Lanka",
     education: "BSc (Hons) in Software Engineering - University of Kelaniya",
-    skills: ["Web Development", "Java", "JavaScript", "PHP", "Python"],
+    skills: ["Web Development", "Java", "JavaScript", "PHP"],
     interests: ["Full-Stack Development", "Cloud Solutions", "UI/UX"],
-    volunteering: [
-        "Public Relations Officer - ISACA Student Group",
-        "Logistics Subcommittee Member - IEEE Computer Society",
-        "Web Development Team - Zero Plastic Movement"
-    ],
     motto: "Learning something new every day! 💡"
 };
 ```
