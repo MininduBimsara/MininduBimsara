@@ -40,28 +40,7 @@ const Minindu = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MininduBimsara&layout=compact&theme=radical)
 
 ### **📈 Additional GitHub Metrics**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MininduBimsara&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MininduBimsara&theme=tokyonight)
-
----
-### 🏆 Achievements
-- 🥈 **First runners-up** in the Inter-Faculty Mathematics Competition, University of Kelaniya (2024)
-- 📜 **JavaScript Certification** - Alison (April 2024)
-- 🎖️ **CSS, Java, Python Certifications** - Udemy
-
----
-### 🚀 Featured Projects
-🔹 **[FreshKit - Organic E-commerce Grocery Store](https://github.com/MininduBimsara/Freshkit.git)**  
-*HTML | CSS | JavaScript | PHP (PDO) | MySQL*  
-A farm-fresh e-commerce platform with PayPal payments and an efficient admin panel.
-
-🔹 **[SwiftConnect - Logistics and Courier System](https://github.com/MininduBimsara/SwiftConnect.git)**  
-*HTML | CSS | JavaScript | PHP | MySQL*  
-A dynamic logistics and courier service platform for seamless shipping solutions.
-
-🔹 **[FuelWiseLK - Fuel Quota Management System](https://github.com/MininduBimsara/FuelWiseLK.git)**  
-*React | Dart | Java | Spring Boot | JPA | MySQL*  
-A fuel quota management system designed for Sri Lanka, ensuring efficient fuel distribution.
 
 ---
 ### 🤝 Connect & Collaborate
