@@ -18,7 +18,6 @@ const Minindu = {
 ---
 ### 🛠️ Tech Arsenal
 #### Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -47,7 +46,7 @@ const Minindu = {
 - 📧 Email: [minindubim@gmail.com](mailto:minindubim@gmail.com)
 - 💼 LinkedIn: [Minindu Abeywardena](https://www.linkedin.com/in/minindu-abeywardena/)
 - 🌍 GitHub: [MininduBimsara](https://github.com/MininduBimsara)
-- 🔗 Portfolio: [*Minindu Bimsara*](https://seng-31313-2025-seven.vercel.app/)
+- 🔗 Portfolio: [*Minindu Bimsara*](https://portfolio-minindu.vercel.app/)
 
 ---
-💡 *"Coding is like humor. If you have to explain it, it’s bad." - Cory House* 🚀
+
