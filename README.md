@@ -1,52 +1,33 @@
-### Hi there, I'm Minindu Abeywardena! 👋
-#### 🚀 Full-Stack Developer | Software Engineering Undergraduate | Cloud Enthusiast
+Hi there, I'm Minindu Abeywardena! 👋
+<a href="https://github.com/MininduBimsara"> <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=A+Passionate+Full-Stack+Developer;Third-Year+Software+Engineering+Undergraduate;Cloud+Enthusiast+%26+Problem+Solver" alt="Dynamic Typing SVG" /> </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MininduBimsara&color=blue)
+<p align="center"> <a href="https://github.com/MininduBimsara" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/minindu-abeywardena/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://portfolio-minindu.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"></a> <a href="mailto:mininduabeywardena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
 
----
-### 📜 About Me
-```javascript
-const Minindu = {
-    location: "Sri Lanka",
-    education: "BSc (Hons) in Software Engineering - University of Kelaniya",
-    skills: ["Web Development", "Java", "JavaScript", "PHP"],
-    interests: ["Full-Stack Development", "Cloud Solutions", "UI/UX"],
-    motto: "Learning something new every day! 💡"
-};
-```
-
----
-### 🛠️ Tech Arsenal
-#### Core Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+About Me
+I am a third-year Software Engineering undergraduate from the University of Kelaniya with a passion for solving real-world problems through technology. I have hands-on experience developing modern, scalable, and user-friendly full-stack applications. I thrive in collaborative Agile teams and am always dedicated to writing clean, high-performance code. My primary domains of interest include Data Science, Machine Learning, and Net-Centric Web Applications.
 
 
-#### Tools & Systems
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MininduBimsara&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MininduBimsara&layout=compact&theme=radical)
 
-### **📈 Additional GitHub Metrics**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MininduBimsara&theme=tokyonight)
 
----
-### 🤝 Connect & Collaborate
-- 📧 Email: [minindubim@gmail.com](mailto:minindubim@gmail.com)
-- 💼 LinkedIn: [Minindu Abeywardena](https://www.linkedin.com/in/minindu-abeywardena/)
-- 🌍 GitHub: [MininduBimsara](https://github.com/MininduBimsara)
-- 🔗 Portfolio: [*Minindu Bimsara*](https://portfolio-minindu.vercel.app/)
+🛠️ My Digital Toolbox
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
----
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/> </p>
+
+✨ My Featured Projects
+<table> <tbody> <tr> <td> <h3 align="center">Haritha Ceylon</h3> <p>An eco-conscious e-commerce platform built with a MERN stack and a microservices architecture. It features secure JWT authentication, Redux for state management, and a dynamic UI with Framer Motion. The application is fully containerized with Docker and uses RabbitMQ for inter-service communication.</p> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/> </p> <p align="center"> <a href="https://github.com/MininduBimsara/Haritha-Ceylon-Microservices"><strong>GitHub Repo</strong></a> </p> </td> <td> <h3 align="center">EventLanka</h3> <p>A responsive event creation and ticket booking platform for the Sri Lankan market. It includes dedicated portals for users, organizers, and admins, along with features like QR e-ticketing and secure payments via the PayPal API. The backend is deployed on Azure and the frontend on Vercel.</p> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/> </p> <p align="center"> <a href="https://eventlanka.vercel.app/"><strong>Live Site</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://github.com/MininduBimsara/EventLanka"><strong>GitHub Repo</strong></a> </p> </td> </tr> <tr> <td> <h3 align="center">FuelWiseLK</h3> <p>A collaborative group project to develop a fuel quota management system for vehicle owners and station operators in Sri Lanka. We built RESTful APIs using Spring Boot with JWT authentication and integrated third-party services like Twilio and Mailgun for notifications.</p> <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/> </p> <p align="center"> <a href="https://github.com/MininduBimsara/FuelWiseLK"><strong>GitHub Repo</strong></a> </p> </td> <td> <h3 align="center">SwiftConnect</h3> <p>A courier management platform designed as a group project, featuring package tracking and dynamic rate calculation. This system provides real-time logistics information and web-based administrative tools with full CRUD functionalities, built on a classic PHP and MySQL stack.</p> <p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/> </p> <p align="center"> <a href="https://github.com/MininduBimsara/SwiftConnect"><strong>GitHub Repo</strong></a> </p> </td> </tr> </tbody> </table>
+
+
+
+
+
+📊 GitHub Analytics & Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MininduBimsara&show_icons=true&theme=tokyonight&rank_icon=github" alt="Minindu's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MininduBimsara&layout=compact&theme=tokyonight" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MininduBimsara&theme=tokyonight" alt="GitHub Activity Graph" /> </p>
